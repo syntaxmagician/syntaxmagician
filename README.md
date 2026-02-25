@@ -48,8 +48,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bejo123&show_icons=true&hide_border=true&theme=github_dark&count_private=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bejo123&layout=compact&theme=github_dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=syntaxmagician&show_icons=true&hide_border=true&theme=github_dark&count_private=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxmagician&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bejo123&theme=github-dark&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=bejo123&color=gray&style=flat)
+![GitHub Streak](https://streak-stats.demolab.com?user=syntaxmagician&theme=github-dark&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=syntaxmagician&color=gray&style=flat)
 
 </div>
 
@@ -71,7 +71,7 @@
 <div align="center">
 
 📧 [vicoramdhani@gmail.com](mailto:vicoramdhani@gmail.com)  
-🌍 [github.com/bejo123](https://github.com/bejo123)  
+🌍 [github.com/syntaxmagician](https://github.com/syntaxmagician)  
 📍 Jakarta, Indonesia  
 
 </div>
