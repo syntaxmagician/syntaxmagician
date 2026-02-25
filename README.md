@@ -9,16 +9,16 @@
 👋 INTRO ANIMATION
 ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vico+Tegar+Ramdhani+👋;Full-Stack+Developer+%7C+Cybersecurity+%7C+AI+Automation;Crafting+Clean+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vico+Tegar+Ramdhani+👋;Backend+Engineer+%7C+Production+Systems+%7C+Data+Infrastructure;I+Design+Systems+That+Survive+Real+Traffic" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🧑‍💻 About Me  
 
-> I'm a **Full-Stack Developer** with over 5 years of experience in building scalable and intelligent systems.  
-> Passionate about **Cybersecurity**, **Automation**, and **AI-driven applications** that simplify human work.  
-> Currently focused on developing cloud-native backend systems and real-time web platforms.
+> I'm a **Backend Engineer** focused on production stability, system architecture, and data infrastructure.  
+> I design backend systems that operate under real traffic load — optimizing connection pools, cluster topology, and database performance.  
+> Experienced in resolving production incidents, building high-throughput services, and orchestrating cross-database data pipelines into BigQuery.
 
 ---
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,php,python,mysql,mongodb,docker,linux,gcp&theme=dark" alt="skills icons" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,js,ts,python,mysql,mongodb,docker,linux,gcp&theme=dark" alt="skills icons" />
 <br><br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="coding animation" />
 
@@ -38,9 +38,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧾 **Mobile Proposal Approval System** | End-to-end mobile approval system with secure JWT auth | React Native · Node.js |
-| 🧠 **Digital Threat Intelligence Platform** | AI-based cybersecurity monitoring dashboard | React.js · Node.js · MongoDB |
-| 🚚 **Logistics & Delivery Tracking System** | Real-time tracking for delivery & fleet | React.js · Node.js · MySQL |
+| 🚚 **Logistics Production System** | Stabilized MySQL connection exhaustion (320 → 16), optimized PM2 cluster & pool architecture | Node.js · Sequelize · MySQL · PM2 |
+| 📦 **Fulfillment Backend Service** | Built idempotent order state machine & high-throughput warehouse integration APIs | Golang · MySQL · REST |
+| 📊 **Cross-System Data Pipeline** | Orchestrated 6 production DBs into unified BigQuery reporting layer with Airflow | Airflow · GCS · BigQuery |
 
 ---
 
@@ -80,7 +80,7 @@
 
 <div align="center">
   
-> _"Build systems that work while you sleep."_  
+> _"Stability is engineered, not accidental."_  
 > — **Vico Tegar Ramdhani**
 
 </div>
