@@ -48,8 +48,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=syntaxmagician&show_icons=true&hide_border=true&theme=github_dark&count_private=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxmagician&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syntaxmagician&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syntaxmagician&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -59,8 +60,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=syntaxmagician&theme=github-dark&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=syntaxmagician&color=gray&style=flat)
+<img src="https://streak-stats.demolab.com?user=syntaxmagician&theme=github-dark&hide_border=true" />
+
+<img src="https://komarev.com/ghpvc/?username=syntaxmagician&color=gray&style=flat" />
 
 </div>
 
